@@ -1,9 +1,8 @@
-var temp = function() {
-  var a = 1; var ttemp = function() {
-    console.log(a);
-    var a=0;
-  }
-  ttemp();
-}
+var Queue = function() {
+  // Hey! Rewrite in the new style. Your code will wind up looking very similar,
+  // but try not not reference your old code in writing the new style.
+};
 
-temp();
+var queueMethods = {};
+
+
